@@ -11,3 +11,7 @@ solution the mini challenges 1
 - Submit a PR against your branch name i.e Make sure your name and the target branch matches
 
 ![PR](./PR.png)
+
+> **Note**
+> You can rename any of the `index.js` files to `index.ts` to solve the problem using typescript.
+> You would be required to write the correct function signatures for the functions though.
